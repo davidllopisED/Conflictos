@@ -1,0 +1,4 @@
+Frase1
+Frase2
+Frase3
+Frase4
